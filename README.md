@@ -32,6 +32,9 @@ More info about dataset can be found here:
 ## Mage Pipeline
 <img src="Mage Files/Mage Pipeline Front end.png">
 
+## GBQ data
+<img src ="GCP Big Query.png">
+
 ## Looker Dashboard Visualization
 ![image](https://github.com/VinothCruze/UberGCP/assets/68219125/c535c3eb-fe25-4855-893a-72465afff9df)
 
