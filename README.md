@@ -30,7 +30,7 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
 
 ## Mage Pipeline
-<img src="Mage Pipeline Front end.png">
+<img src="Mage Files/Mage Pipeline Front end.png">
 
 ## Looker Dashboard Visualization
 ![image](https://github.com/VinothCruze/UberGCP/assets/68219125/c535c3eb-fe25-4855-893a-72465afff9df)
