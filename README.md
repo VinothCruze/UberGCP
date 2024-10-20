@@ -20,7 +20,7 @@ Google Cloud Platform
 TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
-Here is the dataset used in the video - [Uber Data](https://github.com/VinothCruze/UberGCP/blob/main/Data/uber_data.csv)
+Here is the dataset used - [Uber Data](https://github.com/VinothCruze/UberGCP/blob/main/Data/uber_data.csv)
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
